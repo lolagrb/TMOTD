@@ -1,6 +1,16 @@
 body {
-    display : flex;
+    background-color: rgb(221, 229, 236);
+}
+
+#phrase {
+    
     justify-content: center;
     padding: 20%;
-    background-color: rgb(221, 229, 236);
+    padding-left: 45%;
+}
+
+#title {
+    justify-content: left;
+    padding-left: 5%;
+    padding-top: 5%;
 }
