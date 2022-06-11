@@ -22,3 +22,6 @@ console.log(tab.filter((a) => a.id > 40).map((a) => a.url));
 
 console.log(tab.find((a) => a.id > 30));
 ```
+
+
+Code rendering : https://htmlpreview.github.io/?
